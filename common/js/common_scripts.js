@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
 
-    Theme Name: Hubfolio
+    Theme Name: SIED Digital Group
     Theme URI: http://
     Description: Creative Agency & Portfolio
     Author: Uithemez
